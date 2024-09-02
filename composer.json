@@ -1,0 +1,8 @@
+{
+    "name": "progrity/php-crud-oop",
+    "description": "project goal 1 (intern)",
+    "type": "project",
+    "require": {
+        "mpdf/mpdf": "^8.2"
+    }
+}
